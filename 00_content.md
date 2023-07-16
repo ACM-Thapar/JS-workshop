@@ -70,10 +70,4 @@
     - Parsing JSON data
     - Stringifying JavaScript objects
 
-13. Introduction to React:
-    - React component structure
-    - JSX syntax
-    - Props and state
-    - Lifecycle methods
-
 This list covers the foundational JavaScript concepts necessary for working with React. It's important to note that React itself has additional concepts and features beyond JavaScript that you may want to cover separately, such as React components, JSX syntax, and React hooks.
