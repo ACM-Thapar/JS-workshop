@@ -10,6 +10,7 @@
 - Study all array methods and their use cases
 - Study all object methods and their use cases
 - Study all DOM methods and their use cases
+- Study about BOM and its methods
 - Study about different event attributes
 - Study about finally keyword
 - Study about async and await
